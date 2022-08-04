@@ -1,8 +1,8 @@
-# Youngjoo Lee 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjugwen%2Fhit-counter&count_bg=%238DC07C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+# Youngjoo Lee   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjugwen%2Fhit-counter&count_bg=%238DC07C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-프론트엔드 개발자로의 항해를 시작했습니다! 😄
+
+프론트엔드 개발자로의 항해를 시작했습니다! 😄 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjugwen&show_icons=true&theme=gruvbox)
 
